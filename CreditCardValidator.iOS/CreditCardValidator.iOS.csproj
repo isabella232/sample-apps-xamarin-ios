@@ -32,8 +32,8 @@
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     <MtouchArch>ARMv7, ARM64</MtouchArch>
     <ConsolePause>false</ConsolePause>
-    <CodesignKey>iPhone Developer: Bitrise Bot (VV2J4SV8V4)</CodesignKey>
-    <CodesignProvision>c9ac75b9-6b84-4e85-af4e-f881c90fd30c</CodesignProvision>
+    <CodesignKey>iPhone Developer: Dev Portal Bot Bitrise (E89JV3W9K4)</CodesignKey>
+    <CodesignProvision>BitriseBot-Wildcard</CodesignProvision>
     <IpaPackageName>
     </IpaPackageName>
     <BuildIpa>true</BuildIpa>
@@ -62,7 +62,6 @@
     <MtouchProfiling>true</MtouchProfiling>
     <CodesignKey>iPhone Developer</CodesignKey>
     <MtouchDebug>true</MtouchDebug>
-    <MtouchUseRefCounting>true</MtouchUseRefCounting>
     <MtouchI18n>
     </MtouchI18n>
     <IpaPackageName>
